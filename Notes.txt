@@ -1,0 +1,14 @@
+Download the dataset from here. This was too large to add to the git repository!:
+https://www.consumerfinance.gov/data-research/consumer-complaints/#download-the-data
+
+
+Things I have done to set up Python on my computer (feel free to do whatever works best for you, just sharing in case it helps!)
+
+1. Downloaded Visual Studio Code
+2. Downloaded Python (in a folder I could easily access)
+3. Connected the two following these instructions (https://www.digitalocean.com/community/tutorials/getting-started-with-python-in-visual-studio-code)
+4. Set up a git repository: https://github.com/ellarose9/NLP-Model-Project 
+5. Learned about how to conmect my local files to git (https://www.atlassian.com/git/tutorials/setting-up-a-repository)
+6. Now working on Data Exploration on my local Python/VS studion session. Will upload my exploration file to Git
+7. There's also a cool project management feature in Git - would like to explore this more too. https://github.com/users/ellarose9/projects/1/views/1?layout=board
+
