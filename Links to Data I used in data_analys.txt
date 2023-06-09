@@ -1,0 +1,10 @@
+Links to Data I used in data_analysis_and_cleanup.py
+
+For Mapping Analysis:
+
+https://docs.google.com/spreadsheets/d/1f6s-BFVMaEt22gAskFVjIjw3uzRx-jx4/edit?usp=sharing&ouid=110821546232277166249&rtpof=true&sd=true
+
+
+For data analysis
+
+https://drive.google.com/file/d/1BIy-949U6NjaJMo5yzwP532GgW1tvfZa/view?usp=drive_link
